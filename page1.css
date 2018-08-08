@@ -1,0 +1,18 @@
+body{
+	margin:0px;
+	padding:0px;
+	background-color:rgba(100,40,30,0.3);
+}
+
+p{
+	
+	font-size:40px;
+	color:black;
+	text-align: center;
+	margin-top: 300px;
+	border: 3px solid black;
+	width:400px;
+	margin-left: 440px;
+	border-radius: 10px;
+	box-shadow: 5px 3px; 
+}
